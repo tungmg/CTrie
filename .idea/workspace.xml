@@ -1,11 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0f6027a-86ac-4819-922a-ee481ae4a215" name="Default Changelist" comment="" />
+    <list default="true" id="b0f6027a-86ac-4819-922a-ee481ae4a215" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CTrie/BasicNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CTrieImplement1/BasicNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CTrie/CNodeBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CTrieImplement1/CNodeBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CTrie/Gen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CTrieImplement1/Gen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CTrie/INodeBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CTrieImplement1/INodeBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CTrie/ListMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CTrieImplement1/ListMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CTrie/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CTrieImplement1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CTrie/MainNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CTrieImplement1/MainNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CTrie/None.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CTrieImplement1/None.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CTrie/Option.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CTrieImplement1/Option.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CTrie/Some.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CTrieImplement1/Some.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CTrie/TrieMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CTrieImplement1/TrieMap1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/sample/MyBenchmark.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sample/MyBenchmark.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/pantheon/triemap/AbstractEntrySet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CTrieImplement2/AbstractEntrySet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/pantheon/triemap/AbstractIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CTrieImplement2/AbstractIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/pantheon/triemap/AbstractKeySet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CTrieImplement2/AbstractKeySet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/pantheon/triemap/BasicNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CTrieImplement2/BasicNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/pantheon/triemap/CNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CTrieImplement2/CNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/pantheon/triemap/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CTrieImplement2/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/pantheon/triemap/EntryNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CTrieImplement2/EntryNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/pantheon/triemap/EntryUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CTrieImplement2/EntryUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/pantheon/triemap/Equivalence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CTrieImplement2/Equivalence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/pantheon/triemap/FailedNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CTrieImplement2/FailedNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/pantheon/triemap/Gen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CTrieImplement2/Gen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/pantheon/triemap/INode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CTrieImplement2/INode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/pantheon/triemap/ImmutableEntrySet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CTrieImplement2/ImmutableEntrySet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/pantheon/triemap/ImmutableIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CTrieImplement2/ImmutableIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/pantheon/triemap/ImmutableKeySet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CTrieImplement2/ImmutableKeySet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/pantheon/triemap/ImmutableTrieMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CTrieImplement2/ImmutableTrieMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/pantheon/triemap/ImmutableTrieSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CTrieImplement2/ImmutableTrieSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/pantheon/triemap/LNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CTrieImplement2/LNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/pantheon/triemap/LNodeEntries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CTrieImplement2/LNodeEntries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/pantheon/triemap/LNodeEntry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CTrieImplement2/LNodeEntry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/pantheon/triemap/LookupResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CTrieImplement2/LookupResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/pantheon/triemap/MainNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CTrieImplement2/MainNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/pantheon/triemap/MutableEntrySet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CTrieImplement2/MutableEntrySet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/pantheon/triemap/MutableIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CTrieImplement2/MutableIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/pantheon/triemap/MutableKeySet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CTrieImplement2/MutableKeySet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/pantheon/triemap/MutableTrieMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CTrieImplement2/MutableTrieMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/pantheon/triemap/MutableTrieSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CTrieImplement2/MutableTrieSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/pantheon/triemap/PresencePredicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CTrieImplement2/PresencePredicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/pantheon/triemap/SNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CTrieImplement2/SNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/pantheon/triemap/SerializationProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CTrieImplement2/SerializationProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/pantheon/triemap/TNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CTrieImplement2/TNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/pantheon/triemap/TrieMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CTrieImplement2/TrieMap2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/pantheon/triemap/TrieSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CTrieImplement2/TrieSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/pantheon/triemap/VerifyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CTrieImplement2/VerifyException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/pantheon/triemap/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CTrieImplement2/package-info.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -22,6 +75,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../IdeaProjects/untitled" />
   </component>
   <component name="SvnConfiguration">
@@ -42,6 +96,10 @@
       <screen x="1366" y="0" width="1360" height="728" />
     </state>
     <state x="1851" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1584555356661" />
+    <state x="1720" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1584558158375">
+      <screen x="1366" y="0" width="1360" height="728" />
+    </state>
+    <state x="1720" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1584558158375" />
     <state x="1826" y="122" key="FileChooserDialogImpl" timestamp="1584556192768">
       <screen x="1366" y="0" width="1360" height="728" />
     </state>

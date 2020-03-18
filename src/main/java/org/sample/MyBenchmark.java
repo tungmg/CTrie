@@ -31,7 +31,8 @@
 
 package org.sample;
 
-import tech.pantheon.triemap.TrieMap;
+import CTrieImplement1.TrieMap1;
+import CTrieImplement2.TrieMap2;
 import org.openjdk.jmh.annotations.*;
 
 import java.util.Map;
@@ -42,28 +43,28 @@ import java.util.concurrent.TimeUnit;
 @BenchmarkMode(Mode.AverageTime)
 @OutputTimeUnit(TimeUnit.MILLISECONDS)
 public class MyBenchmark {
-//    public static Map<String, Integer> concurrentHashMapObject = null;
-//    @Benchmark
-//    public void testConcurrentHashMap() {
-//        concurrentHashMapObject = new ConcurrentHashMap<String, Integer>();
-//        for (int i = 0; i < 1000000; i++) {
-//            Integer random = (int) Math.ceil(Math.random() * 100000);
-//            concurrentHashMapObject.put(String.valueOf(random), random);
-//        }
-//    }
-//
-//    @Benchmark
-//    public void testTrie() {
-//        final TrieMap<String, Integer> trieMap = new TrieMap<String, Integer>();
-//        for (int i = 0; i < 1000000; i++) {
-//            Integer random = (int) Math.ceil(Math.random() * 100000);
-//            trieMap.put(String.valueOf(random), random);
-//        }
-//    }
+    public static Map<String, Integer> concurrentHashMapObject = null;
+    @Benchmark
+    public void testConcurrentHashMap() {
+        concurrentHashMapObject = new ConcurrentHashMap<String, Integer>();
+        for (int i = 0; i < 1000000; i++) {
+            Integer random = (int) Math.ceil(Math.random() * 100000);
+            concurrentHashMapObject.put(String.valueOf(random), random);
+        }
+    }
 
     @Benchmark
-    public void testTrie2() {
-        final TrieMap<String, Integer> trieMap = TrieMap.create();
+    public void testTrieImplement1() {
+        final TrieMap1<String, Integer> trieMap = new TrieMap1<String, Integer>();
+        for (int i = 0; i < 1000000; i++) {
+            Integer random = (int) Math.ceil(Math.random() * 100000);
+            trieMap.put(String.valueOf(random), random);
+        }
+    }
+
+    @Benchmark
+    public void testTrieImplement2() {
+        final TrieMap2<String, Integer> trieMap = TrieMap2.create();
         for (int i = 0; i < 1000000; i++) {
             Integer random = (int) Math.ceil(Math.random() * 100000);
             trieMap.put(String.valueOf(random), random);
