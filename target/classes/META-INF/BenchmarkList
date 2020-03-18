@@ -1,0 +1,1 @@
+JMH S 22 org.sample.MyBenchmark S 50 org.sample.generated.MyBenchmark_testTrie2_jmhTest S 9 testTrie2 S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MILLISECONDS E E 
